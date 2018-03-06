@@ -1,11 +1,10 @@
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
-
-![Preview](preview.jpg)
+# MWUF Farmers Survery
+This repo hosts the code that is publishing our map and also using the answers from the google sheet.
 
 ## Live links (replace with your own)
+- Survey Form (TBD)
 - Leaflet Map https://osgisomg.com/mwuf/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1u89ejriPiCbOwSbTf1DXJM2tj71g8tvUjP7EfR_IppI/edit#gid=0
+- Google Sheets template for the map https://docs.google.com/spreadsheets/d/1u89ejriPiCbOwSbTf1DXJM2tj71g8tvUjP7EfR_IppI/edit#gid=0
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
